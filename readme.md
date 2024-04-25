@@ -13,9 +13,9 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. From the micro editor, open the command prompt (usually `CtrlE`)
+2. Run the command >`> plugin install rose-pine`
+3. Once installed run >`>set colorsheme rose-pine` (or rose-pine-dawn/rose-pine-moon)
 
 ## Gallery
 
