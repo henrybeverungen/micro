@@ -14,8 +14,8 @@
 ## Usage
 
 1. From the micro editor, open the command prompt (usually `CtrlE`)
-2. Run the command >`> plugin install rose-pine`
-3. Once installed run >`>set colorsheme rose-pine` (or rose-pine-dawn/rose-pine-moon)
+2. Run the command `> plugin install rose-pine`
+3. Once installed run `>set colorsheme rose-pine` (or rose-pine-dawn/rose-pine-moon)
 
 ## Gallery
 
