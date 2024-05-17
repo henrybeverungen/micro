@@ -8,7 +8,7 @@ color-link identifier "#b4637a" //love
 
 color-link type "#54949f" //foam 
 
-colro-link symbol "#d7827e" //rose
+color-link symbol "#d7827e" //rose
 
 color-link diff-added "#549494f" //foam
 color-link diff-modified "#907aa9" //iris
