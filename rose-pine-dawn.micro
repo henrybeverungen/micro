@@ -1,0 +1,19 @@
+color-link default "#575279" //text
+color-link comment "#907aa9" //iris
+
+color-link constant "#286983" //pine
+color-link constant.string "#ea9d34" //gold
+
+color-link identifier "#b4637a" //love
+
+color-link type "#54949f" //foam 
+
+colro-link symbol "#d7827e" //rose
+
+color-link diff-added "#549494f" //foam
+color-link diff-modified "#907aa9" //iris
+color-link diff-deleted "#d7827e" //rose
+
+color-link error "#b4637a" //love
+
+color-link current-line-number "#b4637a" //love
