@@ -13,9 +13,11 @@
 
 ## Usage
 
-1. From the micro editor, open the command prompt (usually `CtrlE`)
-2. Run the command `> plugin install rose-pine`
-3. Once installed run `>set colorsheme rose-pine` (or rose-pine-dawn/rose-pine-moon)
+1. Clone this repository
+2. Copy the files to `~/.config/micro/colorschemes`
+3. Add `export "MICRO_TRUECOLOR=1"` to your shell RC file (bashrc, zshrc, config.fish ...)
+4. Open micro, press Ctrl+e, type `set colorscheme rose-pine` and press Enter
+5. For other flavors, just use their name (`rose-pine-moon`, `rose-pine-dawn`)
 
 ## Gallery
 
